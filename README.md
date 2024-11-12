@@ -33,7 +33,7 @@ Before you can run this project, you’ll need to have the following installed:
    
 4. Run the command in terminal
 
- npm install
+   npm install
  
 4. After installing npm, Run the command
    
