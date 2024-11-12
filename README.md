@@ -24,7 +24,7 @@ Before you can run this project, you’ll need to have the following installed:
 
 - **Node.js** and **npm**: [Download and install Node.js](https://nodejs.org/)
 
-### Steps to Install
+### Steps to Run the App
 
 1. Open the Visual Studio Code
 2. Clone the respository
