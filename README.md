@@ -28,7 +28,7 @@ Before you can run this project, you’ll need to have the following installed:
 
 1. Open the Visual Studio Code
 2. Clone the respository
-   git clone https://github.com/nxtbuild/Employment-Verification-API.git
+   git clone https://github.com/nxtbuild/Employment-Verification-React-App.git
 3. Project code in master branch
    
 4. Run the command in terminal
